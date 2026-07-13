@@ -4,7 +4,6 @@ A responsive 4-page website for a fictional interior design studio, built
 with **React**, **React Router**, and plain **CSS** — no UI framework, no
 build-time theming, just straightforward components.
 
-**Live demo:** _add your deployed link here (Vercel / Netlify / GitHub Pages)_
 
 ## Pages
 
